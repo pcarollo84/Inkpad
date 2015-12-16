@@ -1,0 +1,6 @@
+framework module InkpadFramework {
+  umbrella header "InkpadFramework.h"
+
+  export *
+  module * { export * }
+}
