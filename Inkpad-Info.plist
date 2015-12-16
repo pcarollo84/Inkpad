@@ -66,7 +66,7 @@
 		<string>Icon-Spotlight@2x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.taptrix.inkpad</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
